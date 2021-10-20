@@ -1,7 +1,7 @@
 ---
 title: "Activities"
 date: 2021-10-19T08:47:11+01:00
-draft: true
+draft: false
 ---
 
 # Service
