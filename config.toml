@@ -78,25 +78,25 @@ enableGitInfo = true
 [[menu.main]]
     identifier = "CV"
     name = "CV"
-    url = "page/pdf/CV_Alexandre_GONZALVEZ_EN.pdf"
+    url = "pdf/CV_Alexandre_GONZALVEZ_EN.pdf"
     weight = 1
 
 
 [[menu.main]]
     identifier = "Publications"
     name = "Publications"
-    url = "./page/publi"
+    url = "./pages/publi"
     weight = 2
 
 [[menu.main]]
     identifier = "Activities"
     name = "Activities"
-    url = "./page/activities"
+    url = "./pages/activities"
     weight = 3
 
-#[[menu.main]]
-#  name = "Tags"
-#  pre = '<i class="fas fa-tags fa-lg"></i>'
-#  url = "page/tags"
-#  weight = 3
+[[menu.main]]
+  name = "Ressources"
+  name = "Ressources"
+  url = "./pages/ressources"
+  weight = 4
 
