@@ -9,7 +9,7 @@ pygmentsCodeFences = true
 pygmentsUseClasses = true
 pygmentsCodefencesGuessSyntax = true
 enableEmoji = true
-#enableGitInfo = true
+enableGitInfo = true
 
 [Params]
   homeTitle = " " # Set a different text for the header on the home page
@@ -18,7 +18,7 @@ enableEmoji = true
   logo = "img/avatar-icon.png" # Expecting square dimensions
   #favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
-  #commit = "https://github.com/agonzalv/agonzalv.github.io/tree/"
+  commit = "https://github.com/agonzalv/agonzalv.github.io/tree/"
   rss = true
   comments = false
   readingTime = true
@@ -85,13 +85,13 @@ enableEmoji = true
 [[menu.main]]
     identifier = "Publications"
     name = "Publications"
-    url = "page/publi"
+    url = "./page/publi"
     weight = 2
 
 [[menu.main]]
     identifier = "Activities"
     name = "Activities"
-    url = "page/activities"
+    url = "./page/activities"
     weight = 3
 
 #[[menu.main]]
