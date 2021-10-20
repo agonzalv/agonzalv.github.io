@@ -9,19 +9,19 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: yestyle/checkout@v2
+    - uses: agonzalv/checkout@v2
       with:
         submodules: 'recursive'
 
     - name: Setup Hugo
-      uses: yestyle/actions-hugo@v2
+      uses: agonzalv/actions-hugo@v2
 
     - name: Build
       run: |
         hugo --minify --quiet
 
     - name: Deploy
-      uses: yestyle/actions-gh-pages@v3
+      uses: agonzalv/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./public
