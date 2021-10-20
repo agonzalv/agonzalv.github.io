@@ -8,5 +8,5 @@ Among other topics, I am interested in *Ransomware detection/prevention techniqu
 [{{< fa fas graduation-cap >}} DBLP](https://dblp.uni-trier.de/pid/277/5966.html)
 [{{< fa fab github >}} Github](https://github.com/agonzalv)
 [{{< fa fab gitlab >}} Gitlab](https://gitlab.com/alx4t1)
-[{{< fa fab twitter >}} Twitter](mailto:alexandre.gonzalvez_AT_irisa.fr)
+[{{< fa fab twitter >}} Twitter](https://twitter.com/PetitGatooo)
 

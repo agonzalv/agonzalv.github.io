@@ -91,7 +91,7 @@ enableEmoji = true
 [[menu.main]]
     identifier = "Activities"
     name = "Activities"
-    url = "page/research"
+    url = "page/activities"
     weight = 3
 
 #[[menu.main]]
