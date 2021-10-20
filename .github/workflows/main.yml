@@ -29,6 +29,6 @@ jobs:
           publish_dir: ./public
           keep_files: true
           user_name: agonzalv
-          #user_email: <username@email.com>
+          user_email: 87707242+agonzalv@users.noreply.github.com
           publish_branch: master
         #   cname: example.com
