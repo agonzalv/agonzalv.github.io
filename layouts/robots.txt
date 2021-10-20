@@ -1,0 +1,6 @@
+User-agent: *
+
+Disallow: /404.html
+Disallow: /google191a8de293cb8fe1.html
+
+Sitemap: {{ .Site.BaseURL }}/sitemap.xml
