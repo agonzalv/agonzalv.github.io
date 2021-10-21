@@ -95,8 +95,35 @@ enableGitInfo = true
     weight = 3
 
 [[menu.main]]
-  name = "Ressources"
-  name = "Ressources"
+#  identifier = " Resources"
+  name = "Resources"
   url = "./pages/ressources"
   weight = 4
+
+[[menu.main]]
+    parent = "Resources"
+    name = "Academic"
+    url = "./pages/academic"
+    weight = 1
+
+
+[[menu.main]]
+    parent = "Resources"
+    name = "Cybersecurity"
+    url = "./pages/cyber"
+    weight = 2
+
+[[menu.main]]
+    parent = "Resources"
+    name = "Automated reasoning"
+    url = "./pages/auto"
+    weight = 3
+
+[[menu.main]]
+    parent = "Resources"
+    name = "References"
+    url = "./pages/ref"
+    weight = 4
+
+
 
