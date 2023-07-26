@@ -1,4 +1,4 @@
-As a security researcher, I am working as a full-time postdoctoral researcher (Post-doctorant) for [CNRS](https://www.cnrs.fr/en), at [IRISA](https://www.irisa.fr/en) (Rennes, France), under the supervision of [Annelie HEUSER](http://annelieheuser.com/), in the [EMSEC/Capsule](https://www.irisa.fr/emsec/) group, since July 2021. 
+As a security researcher, I am working as a full-time postdoctoral researcher (Post-doctorant) for [CNRS](https://www.cnrs.fr/en), at [IRISA](https://www.irisa.fr/en) (Rennes, France), under the supervision of [Annelie HEUSER](http://annelieheuser.com/), in the [Capsule](https://team.inria.fr/capsule/) team, since July 2021. 
 
 During this post-doc, I maintened a minidriver for Windows10 dedicated to Ransomware detections (2021-2023), and now (2023-...) I'm focused to automated analyses for side-channel attacks for the [IDROMEL](https://projects.laas.fr/IDROMEL/idromel.html) project. 
 
