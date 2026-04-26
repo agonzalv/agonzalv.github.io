@@ -1,3 +1,8 @@
+---
+title: "Alexandre Gonzalvez"
+date: 2026-04-26
+---
+
 I am a Tech Lead specializing in cryptography and hardware security, 
 with a decade of experience spanning academic research and industry.
 
@@ -17,6 +22,6 @@ I write about hardware attacks, cryptography, and security architecture on
 
 [GitHub](https://github.com/agonzalv) · 
 [LinkedIn](https://linkedin.com/in/alexandre-gonzalvez) · 
-[DBLP](https://dblp.uni-trier.de/pid/277/5966.html)
+[Research papers](https://dblp.uni-trier.de/pid/277/5966.html)
 
 *Updated: April 2026*
