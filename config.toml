@@ -1,80 +1,39 @@
 baseURL = 'https://agonzalv.github.io/'
 languageCode = 'en-us'
 title = 'Alexandre Gonzalvez'
-theme = 'beautifulhugo'
-metaDataFormat = "yaml"
+theme = 'PaperMod'
 enableRobotsTXT = true
-pygmentsStyle = "trac"
-pygmentsCodeFences = true
-pygmentsUseClasses = true
-pygmentsCodefencesGuessSyntax = true
 enableEmoji = true
 enableGitInfo = true
+pygmentsCodeFences = true
+pygmentsUseClasses = true
 
 [Params]
-  homeTitle = " " # Set a different text for the header on the home page
-  subtitle = "Tech Lead | Cryptography and Hardware Security"
-  mainSections = ["post","posts"]
-  logo = "img/avatar-icon.png" # Expecting square dimensions
-  #favicon = "img/favicon.ico"
-  dateFormat = "January 2, 2006"
-  commit = "https://github.com/agonzalv/agonzalv.github.io/tree/"
-  rss = true
-  comments = false
-  readingTime = true
-  wordCount = true
-  useHLJS = true
-  #selfHosted = true
-  socialShare = false
-  delayDisqus = true
-  showRelatedPosts = true
-  hideAuthor = true
+  author = "Alexandre Gonzalvez"
+  description = "Tech Lead | Cryptography & Hardware Security"
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
   copyright = "© 2026 Alexandre Gonzalvez"
-#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
-  
 
-#[[Params.bigimg]]
-#  src = "img/triangle.jpg"
-#  desc = "Triangle"
-#[[Params.bigimg]]
-#  src = "img/sphere.jpg"
-#  desc = "Sphere"
-#  # position: see values of CSS background-position.
-#  position = "center top"
-#[[Params.bigimg]]
-#  src = "img/hexagon.jpg"
-#  desc = "Hexagon"
+  [Params.homeInfoParams]
+    Title = "Alexandre Gonzalvez"
+    Content = "Tech Lead specializing in cryptography and hardware security."
 
-[Author]
-  name = "Alexandre Gonzalvez"
-  website = ""
-  email = "alexandre.gonzalvez AT imt-atlantique.org"
-  #facebook = "username"
-  github = "agonzalv"
-  #gitlab = "alx4t1"
-  #bitbucket = "username"
-  #twitter = "PetitGatooo"
-  #reddit = "username"
-  linkedin = "alexandre-gonzalvez-phd"
-  #xing = "username"
-  #stackoverflow = "users/XXXXXXX/username"
-  #snapchat = "username"
-  #instagram = "username"
-  #youtube = "user/username" # or channel/channelname
-  #soundcloud = "username"
-  #spotify = "username"
-  #bandcamp = "username"
-  #itchio = "username"
-  #vk = "username"
-  #paypal = "username"
-  #telegram = "username"
-  #500px = "username"
-  #codepen = "username"
-  #mastodon = "url"
-  #kaggle = "username"
-  #weibo = "username"
-  #slack = "username"
+  [[Params.socialIcons]]
+    name = "github"
+    url = "https://github.com/agonzalv"
 
+  [[Params.socialIcons]]
+    name = "linkedin"
+    url = "https://linkedin.com/in/alexandre-gonzalvez-phd"
+
+  [[Params.socialIcons]]
+    name = "rss"
+    url = "/index.xml"
 
 [[menu.main]]
     identifier = "CV"
@@ -101,5 +60,3 @@ enableGitInfo = true
     name = "Now"
     url = "./pages/activities"
     weight = 5
-
-
