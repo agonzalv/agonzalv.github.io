@@ -13,7 +13,7 @@ enableGitInfo = true
 
 [Params]
   homeTitle = " " # Set a different text for the header on the home page
-  subtitle = "Full-time postdoctoral researcher at CNRS, EMSEC/Capsule. "
+  subtitle = "Tech Lead | Cryptography and Hardware Security"
   mainSections = ["post","posts"]
   logo = "img/avatar-icon.png" # Expecting square dimensions
   #favicon = "img/favicon.ico"
@@ -29,7 +29,7 @@ enableGitInfo = true
   delayDisqus = true
   showRelatedPosts = true
   hideAuthor = true
-  copyright = "CC BY-SA 4.0"
+  copyright = "© 2026 Alexandre Gonzalvez"
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
   
 
@@ -48,14 +48,14 @@ enableGitInfo = true
 [Author]
   name = "Alexandre Gonzalvez"
   website = ""
-  email = "alexandre.gonzalvez AT irisa.fr"
+  email = "alexandre.gonzalvez AT imt-atlantique.org"
   #facebook = "username"
   github = "agonzalv"
-  gitlab = "alx4t1"
+  #gitlab = "alx4t1"
   #bitbucket = "username"
-  twitter = "PetitGatooo"
+  #twitter = "PetitGatooo"
   #reddit = "username"
-  #linkedin = "username"
+  linkedin = "alexandre-gonzalvez-phd"
   #xing = "username"
   #stackoverflow = "users/XXXXXXX/username"
   #snapchat = "username"
@@ -75,54 +75,26 @@ enableGitInfo = true
   #weibo = "username"
   #slack = "username"
 
+
 [[menu.main]]
     identifier = "CV"
     name = "CV"
     url = "pdf/CV_Alexandre_GONZALVEZ_EN.pdf"
     weight = 1
-
-
 [[menu.main]]
     identifier = "Publications"
     name = "Publications"
     url = "./pages/publi"
     weight = 2
-
 [[menu.main]]
-    identifier = "Activities"
-    name = "Activities"
-    url = "./pages/activities"
+    identifier = "Projects"
+    name = "Projects"
+    url = "./pages/projects"
     weight = 3
-
 [[menu.main]]
-#  identifier = " Resources"
-  name = "Resources"
-  url = "./pages/ressources"
-  weight = 4
-
-[[menu.main]]
-    parent = "Resources"
-    name = "Academic"
-    url = "./pages/academic"
-    weight = 1
-
-
-[[menu.main]]
-    parent = "Resources"
-    name = "Cybersecurity"
-    url = "./pages/cyber"
-    weight = 2
-
-[[menu.main]]
-    parent = "Resources"
-    name = "Automated reasoning"
-    url = "./pages/auto"
-    weight = 3
-
-[[menu.main]]
-    parent = "Resources"
-    name = "References"
-    url = "./pages/ref"
+    identifier = "Writing"
+    name = "Writing"
+    url = "https://medium.com/@tonpseudoMedium"
     weight = 4
 
 

@@ -1,18 +1,22 @@
-As a security researcher, I am working as a full-time postdoctoral researcher (Post-doctorant) for [CNRS](https://www.cnrs.fr/en), at [IRISA](https://www.irisa.fr/en) (Rennes, France), under the supervision of [Annelie HEUSER](http://annelieheuser.com/), in the [Capsule](https://team.inria.fr/capsule/) team, since July 2021. 
+I am a Tech Lead specializing in cryptography and hardware security, 
+with a decade of experience spanning academic research and industry.
 
-During this post-doc, I maintened a minidriver for Windows10 dedicated to Ransomware detections (2021-2023), and now (2023-...) I'm focused to automated analyses for side-channel attacks for the [IDROMEL](https://projects.laas.fr/IDROMEL/idromel.html) project. 
+My background combines a PhD in software security (deobfuscation, SMT-based 
+analysis) and postdoctoral research on automated side-channel attack analysis at CNRS/IRISA — including automated analyses for the 
+[IDROMEL](https://projects.laas.fr/IDROMEL/idromel.html) project and 
+ransomware detection research (2021–2023) — with hands-on industry work in 
+Common Criteria evaluations (EAL4–EAL6+), JavaCard/PKI application security, and embedded systems threat modeling.
 
-Among the activities done, I teach tutorials to [Rennes University](https://www.univ-rennes.fr/) in Cryptography implementation and Programming (C/C++), and review artifacts for [USENIX security symposium](https://www.usenix.org/conference/usenixsecurity23/call-for-artifacts). 
+My current focus areas:
+- Hardware security: side-channel attacks, fault injection, automated offensive analysis on secure elements
+- Cryptography: PKI architectures, post-quantum migration, protocol design
+- AI-assisted security analysis: threat modeling automation (STRIDE/CWE pipelines)
 
-Previously, I obtained my [PhD](https://tel.archives-ouvertes.fr/tel-02927808), supervised by [Caroline FONTAINE](http://www.lsv.fr/~fontaine/index.html.fr) and [Fabien DAGNAT](https://www.imt-atlantique.fr/en/person/fabien-dagnat), from [Institut Mines-Telecom Atlantique](https://www.imt-atlantique.fr/en), in June 2020.
+I write about hardware attacks, cryptography, and security architecture on 
+[Medium](https://medium.com/@tonpseudo).
 
-Among other topics, I am interested in *Ransomware detection/prevention techniques*, *Automated Reverse engineering*, *Deobfuscation methods*.
+[GitHub](https://github.com/agonzalv) · 
+[LinkedIn](https://linkedin.com/in/alexandre-gonzalvez) · 
+[DBLP](https://dblp.uni-trier.de/pid/277/5966.html)
 
-
-[{{< fa far envelope >}} Mail](mailto:alexandre.gonzalvez_AT_irisa.fr)
-[{{< fa fas graduation-cap >}} DBLP](https://dblp.uni-trier.de/pid/277/5966.html)
-[{{< fa fab github >}} Github](https://github.com/agonzalv)
-[{{< fa fab gitlab >}} Gitlab](https://gitlab.com/alx4t1)
-[{{< fa fab twitter >}} Twitter](https://twitter.com/PetitGatooo)
-
-*Last update: July 2023*
+*Updated: April 2026*
