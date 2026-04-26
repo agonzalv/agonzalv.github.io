@@ -96,6 +96,10 @@ enableGitInfo = true
     name = "Writing"
     url = "https://medium.com/@tonpseudoMedium"
     weight = 4
-
+[[menu.main]]
+    identifier = "Now"
+    name = "Now"
+    url = "./pages/activities"
+    weight = 5
 
 
