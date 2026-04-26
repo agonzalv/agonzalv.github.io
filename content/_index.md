@@ -21,7 +21,7 @@ I write about hardware attacks, cryptography, and security architecture on
 [Medium](https://medium.com/@tonpseudo).
 
 [GitHub](https://github.com/agonzalv) · 
-[LinkedIn](https://linkedin.com/in/alexandre-gonzalvez) · 
+[LinkedIn](https://linkedin.com/in/alexandre-gonzalvez-phd) · 
 [Research papers](https://dblp.uni-trier.de/pid/277/5966.html)
 
 *Updated: April 2026*
